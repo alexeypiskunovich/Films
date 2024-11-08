@@ -1,0 +1,60 @@
+/* HeaderNavbar.module.css */
+
+.Header {
+  background-color: #666 !important;
+  height: 80px;
+}
+
+.movieWord {
+  margin-left: 70px;
+  margin-top: -40px; /* Отрицательный отступ, чтобы поднять выше */
+}
+
+.Header img {
+  height: 60px;
+  width: 80px;
+}
+
+.Navbar {
+  position: relative; /* Чтобы меню было позиционировано относительно этого контейнера */
+  text-align: right;
+  margin-top: -20px;
+}
+
+.Navbar button {
+  background-color: #333;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.Navbar button:hover {
+  background-color: #555;
+}
+
+.dropdownMenu {
+  position: absolute; /* Позволяет позиционировать элемент относительно ближайшего позиционированного родителя */
+  top: 100%; /* Размещает элемент непосредственно под его родителем */
+  right: 0; /* Выравнивает элемент по правому краю родителя */
+  background-color: #fff; /* Устанавливает белый цвет фона для меню */
+  border: 1px solid #ddd; /* Добавляет тонкую светло-серую рамку вокруг меню */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Добавляет тень для создания эффекта глубины */
+  z-index: 1000; /* Устанавливает высокий z-index, чтобы меню было поверх других элементов */
+  display: flex; /* Включает Flexbox для управления расположением дочерних элементов */
+  flex-direction: column; /* Располагает дочерние элементы вертикально один под другим */
+}
+
+
+.menuItem {
+  padding: 10px;
+  cursor: pointer;
+  font-weight: bold;
+  text-decoration: none; /* Убирает подчеркивание */
+  color: #000; /* Можно добавить цвет для NavLink, если необходимо */
+}
+
+.menuItem:hover {
+  background-color: #f0f0f0;
+}
+

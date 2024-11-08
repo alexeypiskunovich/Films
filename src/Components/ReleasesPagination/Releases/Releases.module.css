@@ -1,0 +1,21 @@
+.Releases {
+  grid-area: r;
+}
+
+.ReleasesWord {
+  margin-top: 30px;
+  margin-bottom: 5px;
+}
+
+.MoviesPoster {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr); /* Создает 6 колонок одинаковой ширины */
+  gap: 10px; /* Расстояние между изображениями */
+}
+
+.MoviesPoster img {
+  width: 100%;
+  height: 266px;
+  border-radius: 5px;
+}
+

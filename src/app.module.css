@@ -1,0 +1,14 @@
+.appWrapper {
+    display: grid;
+    grid-template-areas: 
+    "h"
+    "r"
+    "p";
+    width:1200px;
+    margin: 0 auto;
+}
+
+
+
+
+

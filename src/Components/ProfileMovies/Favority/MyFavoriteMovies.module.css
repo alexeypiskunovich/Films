@@ -1,0 +1,28 @@
+.moviesContainer {
+    display: flex;
+    flex-direction: column; /* Вертикальное расположение карточек */
+    gap: 10px; /* Отступ между карточками */
+}
+
+.movieCard {
+    display: flex; /* Используем flex для расположения картинки и текста */
+    align-items: flex-start; /* Центрируем элементы по вертикали, выравнивание по верхнему краю */
+    border: 1px solid #ccc; /* Обводка для карточек */
+    padding: 10px; /* Отступ внутри карточки */
+}
+
+.movieCard img {
+    width: 200px; /* Ширина картинки */
+    height: auto; /* Автоматическая высота */
+    margin-right: 10px; /* Отступ справа от картинки */
+}
+
+.title {
+    font-weight: bold; /* Сделаем название жирным */
+}
+
+.description {
+    margin-top: 140px; /* Отступ сверху для описания */
+    font-size: 14px; /* Размер шрифта для описания */
+    color: #555; /* Цвет шрифта для описания */
+}

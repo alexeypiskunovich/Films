@@ -1,0 +1,22 @@
+
+.Pagenation{
+    grid-area:p;
+    text-align: center;
+}
+.paginator {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
+  }
+  
+  .paginator button {
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    border-color:darkgrey;
+  }
+  
+  .paginator button:focus {
+    color: green;
+  }
