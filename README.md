@@ -1,6 +1,8 @@
 # MovieGallery
 React is a movie gallery app.
 
+## ⚠️ Important 
+**Please note: You need to use a VPN to run this application.**
 ## Description
 MovieGallery is an application for viewing a collection of movie posters. Users can browse through various movies and receive information about each one, such as its title and poster. The app fetches data for 20 movies at a time, and users can navigate through the collection using "Next" and "Previous" buttons. In addition, you can add your favorite movies to the Favorites section.
 
@@ -30,12 +32,14 @@ MovieGallery is an application for viewing a collection of movie posters. Users 
 
 
 ## Functional
-You can test our weather forecast application by visiting the following link: [WeatherForecast Demo](https://alexeypiskunovich.github.io/Films/).
-Experience the full functionality and see real-time weather updates for your city!
+You can test our movie gallery application by visiting the following link: [MovieGallery Demo](https://alexeypiskunovich.github.io/Films/).
+Experience the full functionality and browse through a collection of movies, viewing their posters and details!
 
-<img src="https://github.com/alexeypiskunovich/Weather/blob/main/Screenshot/2024-12-02_01-11-16.png" width="800">
-<img src="https://github.com/alexeypiskunovich/Weather/blob/main/Screenshot/2024-12-02_01-13-22.png" width="800">
-<img src="https://github.com/alexeypiskunovich/Weather/blob/main/Screenshot/2024-12-02_01-15-26.png" width="800">
+<img src="https://github.com/alexeypiskunovich/Films/blob/main/Screen/2024-12-02_02-08-21.png" width="800">
+<img src="https://github.com/alexeypiskunovich/Films/blob/main/Screen/2024-12-02_02-09-38.png" width="800">
+<img src="https://github.com/alexeypiskunovich/Films/blob/main/Screen/2024-12-02_02-11-40.png" width="800">
+<img src="https://github.com/alexeypiskunovich/Films/blob/main/Screen/2024-12-02_02-13-23.png" width="800">
+
 
 
 
