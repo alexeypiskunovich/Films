@@ -34,11 +34,12 @@ MovieGallery is an application for viewing a collection of movie posters. Users 
 ## Functional
 You can test our movie gallery application by visiting the following link: [MovieGallery Demo](https://alexeypiskunovich.github.io/Films/).
 Experience the full functionality and browse through a collection of movies, viewing their posters and details!
-
+<div align="center">
 <img src="https://github.com/alexeypiskunovich/Films/blob/main/Screen/2024-12-02_02-08-21.png" width="800">
 <img src="https://github.com/alexeypiskunovich/Films/blob/main/Screen/2024-12-02_02-09-38.png" width="800">
 <img src="https://github.com/alexeypiskunovich/Films/blob/main/Screen/2024-12-02_02-11-40.png" width="800">
 <img src="https://github.com/alexeypiskunovich/Films/blob/main/Screen/2024-12-02_02-13-23.png" width="800">
+</div>
 
 
 
